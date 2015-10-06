@@ -83,7 +83,7 @@ class Day9:
         for search in searches:
             cm = []
             cm.append((self.__language__(32500) % search, 'XBMC.RunPlugin(%s?action=removeSearch&search=%s)' % (sys.argv[0], search)))
-            url='http://day9.tv/archives?q='+search
+            url='http://day9.tv/archives/?q='+search
             self.addCategory(search, url, 'showTitles', menu=cm)
 
     def removeSearch(self, params = {}):
