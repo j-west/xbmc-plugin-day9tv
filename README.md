@@ -1,5 +1,18 @@
-xbmc-plugin-day9 (plugin.video.day9)
-========================================
+# day9-revamp
+
+*~	An attempt to bring this plugin to an up-to-date state.*
+
+###	**#TODO:**
+* Find las compatible build of xbmc
+* Research documentation of changes between xbmc editions
+* [changes]
+* profit
+
+
+
+
+## rfdrake's README
+
 
 An XBMC plugin to view the Day[9].tv Daily Archives.
 
