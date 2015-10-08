@@ -3,7 +3,7 @@
 *~	An attempt to bring this plugin to an up-to-date state.*
 
 ###	**#TODO:**
-* Find las compatible build of xbmc
+* Find last compatible build of xbmc
 * Research documentation of changes between xbmc editions
 * [changes]
 * profit
